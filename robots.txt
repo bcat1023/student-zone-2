@@ -1,0 +1,17 @@
+# Ignore FrontPage files
+User-agent: *
+Disallow: /ads
+Disallow: /announcement
+Disallow: /error
+Disallow: /image
+Disallow: /policy
+Disallow: /apps.html
+Disallow: /bingsiteauth.xml
+Disallow: /more.html
+Disallow: /netlify.toml
+Disallow: /news.html
+Disallow: /onesignalsdkupdaterworker.js
+Disallow: /onesignalsdkworker.js
+Disallow: /radio.html
+Disallow: /readme.md
+Disallow: /search.html
